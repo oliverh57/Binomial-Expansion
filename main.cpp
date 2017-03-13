@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std; //hopefuly Conor dosen't see this!
+using namespace std;
 /*
 C++ pascals triangle (binomial expantion)
 
