@@ -1,17 +1,5 @@
 #include <iostream>
 using namespace std;
-/*
-C++ pascals triangle (binomial expantion)
-
-tasks:
-algorithm for genrating triangle
-Add / figure out exponent elgorithms
-i-k (for a)
-k (for b)
-
-*/
-
-
 
 int main()
 {
